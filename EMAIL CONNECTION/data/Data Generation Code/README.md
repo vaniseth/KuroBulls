@@ -12,7 +12,7 @@ This file contains the script to generate random number of mails sent and reciev
 ### 4. Combined
 This file contains script that is a combination of all the files mentioned above and it gives the result in a list format.
 
-### 5. Email_Connection_Analysis_data
+### 5. Email Connection Analysis
 This file contains all the above mentioned code and goves the ouptut in a dataframe.
 
 ### 6.final
